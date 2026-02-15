@@ -6,3 +6,8 @@ esructurado em varias capas
 4.- el programa verificara a cada numero salido si algun carton de los que estan em juego cumpla com la modalidad de juego escogida, en caso que haya bingo el programa dirá el nombre y el numero de carton que hizo bingo pero no detendra la jugada. habra um boton para poner fin al sorteo o el sorteo terminara cuando hayan salido las 75 fichas.
 5.- habra uma actividad para realizar las ventas, com el listado de los números de cartones activos para el sorteo a los cuales se le podra assignar um nombre para saber que jugador lo compro, dicho listado tendra um boton copiar para que se copie la lista de todos los números de los cartones que participan y los que se hayan vendido  com el nombre al lado.
 6.- habra uma actividad para totalizar las ventas, para cada sorteo habra um numero de modalidades a jugar que el usuário podra definir, para cada modalidade se podra estabelecer el porcentaje de que se pagara para cada modaliad y ademas uma casilla para el porcentaje de ganancia para la casa. la suma de las modalidades y el porcetaje de la casa no podra superar el monto las ventas para cada sorteo.
+
+# Bingo Android
+Versión móvil del proyecto Bingo, desarrollada en Kotlin con Android Studio Panda.
+
+👉 La versión original en Excel/VBA está aquí: [bingo-excel](https://github.com/sauriodont/bingo-excel)
